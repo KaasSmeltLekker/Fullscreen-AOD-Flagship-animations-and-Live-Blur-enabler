@@ -6,6 +6,6 @@ Designed for OneUI 6 and later versions.
 
 To use it, just flash the module via Magisk/KernelSU/SukiSU/APatch.
 
-# NOTE : SOME DEVICES MIGHT GO ON A BOOTLOOP STATE! 
+NOTE : SOME DEVICES MIGHT GO ON A BOOTLOOP STATE! 
 
-# If a bootloop happens or your phone gets bricked, it is not my responsibility.
+If a bootloop happens or your phone gets bricked, it is not my responsibility.
